@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "PORT=3000 nodemon index.js",
-    "prod": "PORT=3000 node index.js"
+    "start": "PORT=3000 node index.js",
+    "dev": "PORT=3000 node index.js"
   },
   "keywords": [],
   "author": "",

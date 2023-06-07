@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/ea7b4d56-898e-4697-88ed-ae8232a2c163/resourceGroups/ruman_group/providers/Microsoft.Web/sites/ruman",
+  "appService.deploySubpath": "."
+}
